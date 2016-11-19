@@ -1,0 +1,20 @@
+{
+  "name": "html-canvas-test",
+  "version": "1.0.0",
+  "description": "Methods to convert css to js readable code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hyphen" : "node csshyphenToCamel.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKwenhua/html-canvas-test.git"
+  },
+  "author": "Peter Halloran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MKwenhua/html-canvas-test/issues"
+  },
+  "homepage": "https://github.com/MKwenhua/html-canvas-test#readme"
+}
